@@ -12,8 +12,8 @@ global.antitags = true;
 global.autoTyping = false;                //auto tying by default off.
 global.autoRecord = false;                //auto recording by default off.
 global.groupevent = false;                //This is the new variable for controlling group event handling.
-global.statusseen = false;                 //This is the new variable for controlling status seen.
-global.autoreadgc = false;
+global.statusseen = true;                 //This is the new variable for controlling status seen.
+global.autoreadgc = true;
 
 
 //
@@ -21,13 +21,13 @@ global.prefa = ["."];                                    //Default prefix here. 
 
 
 //
-global.Owner = ["+94704274987", "+94704274987"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.Owner = ["+94715322008", "+94743157343"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
 global.OwnerNumber = ["+94704274987", "+94704274987"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.ownertag = ["+94704274987"];
-global.OwnerName = "SACHITH";
-global.BotName = "SACHITH";
-global.packname = "🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋";                             //Do not change.
-global.author = "SACHITH";                               //Do not change.
+global.ownertag = ["+94715322008"];
+global.OwnerName = "DANIDU NIRMAL";
+global.BotName = "YAKA-BOT";
+global.packname = "🦋 │YAKA│BOT│MD│𝐕1 🦋";                             //Do not change.
+global.author = "DANIDU NIRMAL";                               //Do not change.
 global.BotSourceCode = "https://github.com/Kai00"; //Do not change.
 global.SupportGroupLink = "https://chat.whatsapp.com/GhRGdwfaMVDCoeAdzILfl";
 
@@ -46,13 +46,13 @@ global.reactmoji = "💞";
 global.themeemoji = "😂";
 global.vidmenu = { url: 'https://tenor.com/en-CA/view/anonymous-hacker-smooth-gif-10171911193797826570%9D%90%95-12-14' };
 global.websitex = "https://github.com/CYBER-x-SACHIYA-SL-MD-BOT/CYBER-PANDA-MD.V.0.4";
-global.lolhuman = "Sachith";
+global.lolhuman = "Danidu";
 
 
 //
-global.BotLogo = fs.readFileSync("./Assets/pic1.jpg");
-global.Thumb = fs.readFileSync("./Assets/pic9.jpg");
-global.Thumb1 = fs.readFileSync("./Assets/pic5.jpg");
+global.BotLogo = fs.readFileSync("https://telegra.ph/file/687d9c6bc5471d7c4486d.jpg");
+global.Thumb = fs.readFileSync("https://telegra.ph/file/687d9c6bc5471d7c4486d.jpg");
+global.Thumb1 = fs.readFileSync("https://telegra.ph/file/687d9c6bc5471d7c4486d.jpg");
 global.ErrorPic = fs.readFileSync("./Assets/pic7.jpg");
 
 
@@ -80,14 +80,14 @@ global.ntilink = []
 //
 global.mess = {
   jobdone: 'Here you go...',
-  useradmin: 'Sorry, only *Group Admins* can use this command *Baka*!',
+  useradmin: 'Sorry, only *Group Admins* can use this command 😂🤌*Baka*!',
   botadmin: 'Sorry, i cant execute this command without being an *Admin* of this group.',
-  botowner: 'Only my *Owner* can use this command, Baka!',
+  botowner: 'Only my *Owner* Danidu Nirmal can use this command, Baka!',
   grouponly: 'This command is only made for *Groups*, Baka!',
   privateonly: 'This command is only made for *Private Chat*, Baka!',
   botonly: 'Only the *Bot itself* can use this command!',
-  waiting: 'Just Wait...',
-  nolink: 'Please provide me *link*, Baka!',
+  waiting: 'Just Wait 😚...',
+  nolink: 'Please provide me 🥲 *link*, Baka!',
   error: 'An error occurd!',
   banned: 'You are *Banned* fron using commands!',
   bangc: 'This Group is *Banned* from using Commands!',
